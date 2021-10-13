@@ -1,0 +1,7 @@
+timerDemo.cpp
+readFromDictionary.cpp
+randomNumberDemo.cpp
+misspelledWords.txt
+dictionary.txt
+cmake-build-debug/*
+CMakeLists.txt
